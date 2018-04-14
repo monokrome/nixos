@@ -1,0 +1,7 @@
+# Results from building Nix
+/result/
+/nixpkgs/
+
+# Non-git hidden files
+.*
+!.git*
